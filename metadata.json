@@ -1,0 +1,6 @@
+{
+  "name": "NoticeGuard AI – Tamil Nadu Unified College Notice Board",
+  "description": "Centralized, responsive multi-college notice board and directory unifying public announcements, exam timetables, symposiums, placements, and holidays across Tamil Nadu institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
